@@ -1,9 +1,8 @@
 # Gender Prediction Based on Profile Photo
  <br>
- This is the **NTU CE9010** course project of Group 10: Chen Zitong, Jin Ye, Xiao Fengtong
+ This is the __NTU CE9010__ course project of Group 10: Chen Zitong, Jin Ye, Xiao Fengtong
  
-## Get started
-### Run Jupyter Notebook
+## Run Jupyter Notebook
   <br>
   Open **project_v5.ipynb** on Google Colaboratory.
   <br>
